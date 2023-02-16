@@ -158,6 +158,8 @@
     border: none;
     margin-bottom: 50px;
   }
+   /*--------- architect part ------- */
+
   .architect-title {
     font-family: "Work Sans";
     font-style: normal;
@@ -226,6 +228,7 @@
     color: #ffffff;
     text-align: center;
   }
+  /*------------- icons part ----------- */
   .icon-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -328,6 +331,7 @@
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
   }
+  /*--------------- last past footer --------------- */
   footer p {
     width: 75%;
     display: flex;
